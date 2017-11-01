@@ -1,0 +1,11 @@
+{ "issue": 2,
+  "title": "变迁",
+  "description": "日新月异的城市，逐渐失控的未来。。。",
+  "welcome": "欢迎来到第一期，变迁",
+  "mainImg": "/resources/journalOne/卷首语/1.jpg",
+  "content": {
+    "心智": ["1.md", "2.md", "3.md"],
+    "此岸": ["1.md", "2.md"],
+    "梦境": ["1.md", "2.md"]
+  }
+}
