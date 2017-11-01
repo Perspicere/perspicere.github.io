@@ -1,1 +1,1 @@
-# PerspicereContent
+本项目用于存放“视角”杂志内容。
