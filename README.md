@@ -6,8 +6,8 @@
 .
 ├── /1/                         # Shared or generic UI components
 │   ├── /meta.json                # Button component
-|   ├── /cover.jpg 
-|   | 
+│   ├── /cover.jpg 
+│   | 
 │   ├── /心智/                # Website layout component
 |   |   ├── /1/
 |   |   |   ├── /article.md
