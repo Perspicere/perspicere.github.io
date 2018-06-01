@@ -8,10 +8,10 @@ editor: '武权'
 proofReading: '吴琪'
 picture: ''
 typesetting: '付安琪'
-design：'童画 陈芝'
+design：'童画,陈芝'
 img: '1.png'
 order: '1'
-date: '2018-05-6'
+date: '2018-05-06'
 type: 'article'
 ---
 
