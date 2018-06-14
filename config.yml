@@ -38,6 +38,7 @@ build:
     # Copied files to public folder when build
     copy:
         - "source/images"
+        - "CNAME"
     # Excuted command when use 'ink publish'
     publish: |
         git add . -A
