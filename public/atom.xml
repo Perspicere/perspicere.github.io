@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>视角杂志</title>
+  <id>http://www.chole.io/blog</id>
+  <updated>2018-06-13T17:53:06-07:00</updated>
+  <subtitle>世界的不同维度</subtitle>
+  <link href="http://www.chole.io/blog"></link>
+  <author>
+    <name>视角杂志</name>
+  </author>
+  <entry>
+    <title>理论的终结：数据洪流淘汰了科学方法</title>
+    <updated>2018-06-01T18:00:00+08:00</updated>
+    <id>tag:www.chole.io,2018-06-01:/blog/end-of-theory.html</id>
+    <content type="html">&lt;p&gt;当阿尔法狗屡屡击败人类围棋选手后，许多人认为，机器完全有可能在属于人类的领域中找到一席之地。 事实上，类似观点早在十年前就已出现。《连线》杂志资深编辑克里斯·安德森指出，计算技术的飞速发展正在动摇科学探索的方法论，并孕育着认识世界的全新方式。&lt;/p&gt;&#xA;</content>
+    <link href="http://www.chole.io/blog/end-of-theory.html"></link>
+    <author>
+      <name>后商</name>
+    </author>
+  </entry>
+  <entry>
+    <title>女性作家的身份陷阱：你丈夫如何看待你的作品？</title>
+    <updated>2018-05-26T18:00:00+08:00</updated>
+    <id>tag:www.chole.io,2018-05-26:/blog/identity-trap-of-female-writers.html</id>
+    <content type="html">&lt;p&gt;一个写与性相关题材的男性很寻常，而写作同样内容的女性却被怀疑有违道德。&lt;/p&gt;&#xA;</content>
+    <link href="http://www.chole.io/blog/identity-trap-of-female-writers.html"></link>
+    <author>
+      <name>王美苏</name>
+    </author>
+  </entry>
+  <entry>
+    <title>手机毁掉了一代人？</title>
+    <updated>2018-05-15T18:00:00+08:00</updated>
+    <id>tag:www.chole.io,2018-05-15:/blog/cell-phone-ruined-generation.html</id>
+    <content type="html">&lt;p&gt;智能手机与社交网络塑造了95后一代人，使之完全不同于之前的年代。与以往同龄人相比，上网让他们的人身更加安全，却也使得他们面临着更严重的精神危机。&lt;/p&gt;&#xA;</content>
+    <link href="http://www.chole.io/blog/cell-phone-ruined-generation.html"></link>
+    <author>
+      <name>杨子墨</name>
+    </author>
+  </entry>
+  <entry>
+    <title>族类暴力的起源</title>
+    <updated>2018-05-06T18:00:00+08:00</updated>
+    <id>tag:www.chole.io,2018-05-06:/blog/categorical-violence.html</id>
+    <content type="html">&lt;p&gt;人类永远极易陷入对死亡和暴力的痴迷，这从根本上说体现了我们作为‘宗教人’（homo religiosus）的本质。&lt;/p&gt;&#xA;</content>
+    <link href="http://www.chole.io/blog/categorical-violence.html"></link>
+    <author>
+      <name>若望</name>
+    </author>
+  </entry>
+  <entry>
+    <title>新的战场：监视与隐私的加密战争</title>
+    <updated>2018-05-02T18:00:00+08:00</updated>
+    <id>tag:www.chole.io,2018-05-02:/blog/encryption-war.html</id>
+    <content type="html">&lt;p&gt;密码朋克们已经赢得了与政府探子之间的加密战争。随着匿名技术的发展，我们该如何平衡开放与隐私，人人匿名之后的世界又会是什么样？&lt;/p&gt;&#xA;</content>
+    <link href="http://www.chole.io/blog/encryption-war.html"></link>
+    <author>
+      <name>姜如月</name>
+    </author>
+  </entry>
+  <entry>
+    <title>阿伦特：感到孤独？可能是专制政府的诡计</title>
+    <updated>2018-02-13T20:38:52+08:00</updated>
+    <id>tag:www.chole.io,2018-02-13:/blog/arendt-isolation-oppression.html</id>
+    <content type="html">&lt;p&gt;恐惧只能在那些被孤立开来的个体上建立完全的统治。因此，独裁政府的一个核心关切就是实现这种孤立。&lt;/p&gt;&#xA;</content>
+    <link href="http://www.chole.io/blog/arendt-isolation-oppression.html"></link>
+    <author>
+      <name>曹雨腾</name>
+    </author>
+  </entry>
+  <entry>
+    <title>fAIth:信仰未来的奇点论</title>
+    <updated>2018-01-17T18:00:00+08:00</updated>
+    <id>tag:www.chole.io,2018-01-17:/blog/transhumanists-religion.html</id>
+    <content type="html">&lt;p&gt;为何宗教话语在 AI 和超人类主义者的圈子里如此常见？&lt;/p&gt;&#xA;</content>
+    <link href="http://www.chole.io/blog/transhumanists-religion.html"></link>
+    <author>
+      <name>于翮</name>
+    </author>
+  </entry>
+</feed>

@@ -1,0 +1,27 @@
+language: go
+
+# S: Build Lifecycle
+install:
+  - go get github.com/InkProject/ink
+  # - ink build $GOPATH/src/github.com/InkProject/ink/template
+  - ink build
+# before_script
+
+script:
+  - cd ./docs
+  - git init
+  - git config user.name "guoliu"
+  - git config user.email "liuguomailbox@gmail.com"
+  - git add .
+  - git commit -m "update docs"
+  - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
+
+# after-script:
+# E: Build Lifecycle
+
+branches:
+  only:
+    - blog-source
+env:
+  global:
+    - GH_REF: github.com/Perspicere/content
