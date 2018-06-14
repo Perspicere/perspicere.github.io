@@ -33,7 +33,7 @@ authors:
         name: '于翮'
 
 build:
-    # output: "public"
+    output: "docs"
     port: 8000
     # Copied files to public folder when build
     copy:
