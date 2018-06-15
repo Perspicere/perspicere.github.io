@@ -15,6 +15,10 @@ authors:
         name: "视角杂志"
         intro: "世界的不同维度"
         avatar: "-/images/logo.png"
+    yunze:
+        name: "一枚读书匠"
+        intro: "一只文艺的哲学猫"
+        avatar: "-/images/avatars/yunze.jpeg"
     ruowang:
         name: "若望"
         intro: "test"
@@ -30,7 +34,7 @@ authors:
     plus_tard:
         name: '王美苏'
         intro: "一只会想象的草履虫。"
-        avator: "-/images/plus_tard.jpeg"
+        avator: "-/images/avatars/plus_tard.jpeg"
     yuhe:
         name: '于翮'
 

@@ -1,11 +1,11 @@
-@import "color.css";
-@import "code.css";
-@import "global.css";
+@import 'color.css';
+@import 'code.css';
+@import 'global.css';
 
-@import "page.css";
-@import "article.css";
-@import "archive-tag.css";
-@import "content.css";
+@import 'page.css';
+@import 'article.css';
+@import 'archive-tag.css';
+@import 'content.css';
 
 .header-wrap {
   padding: 15px;
@@ -48,7 +48,7 @@ a.name {
   max-width: 720px;
   padding: 0 15px;
   min-height: 100%;
-  position:relative;
+  position: relative;
   .site {
     .logo {
       margin: 0 auto;
@@ -117,11 +117,12 @@ a.name {
   }
   .icon {
     display: block;
-    max-width: 20px;
     max-height: 20px;
     align-self: center;
     width: auto;
     height: auto;
+    margin-left: 4px;
+    margin-right: 4px;
   }
   .publish {
     float: right;

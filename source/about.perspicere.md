@@ -1,0 +1,11 @@
+type: page
+title: "关于视角"
+author: perspicere
+
+---
+
+汇聚不同声音，探索分布式协作，共同改变认识世界的方式。
+
+视角团队对内分享资料、探讨有价值的问题，对外定期发布高质量的跨学科文章。
+
+长期招募译者、作者与全栈工程师（JS/Go）。欢迎发送邮件至 info.perspiceremagazine@gmail.com。
