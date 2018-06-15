@@ -11,10 +11,10 @@ site:
     # root: "/content"
 
 authors:
-    me:
-        name: "纸小墨"
-        intro: "构建只为纯粹书写的博客"
-        avatar: "-/images/avatars/avatar.png"
+    perspicere:
+        name: "视角杂志"
+        intro: "世界的不同维度"
+        avatar: "-/images/logo.png"
     ruowang:
         name: "若望"
         intro: "test"
@@ -27,8 +27,10 @@ authors:
         name: '杨子墨'
     houshang:
         name: '后商'
-    meisu:
+    plus_tard:
         name: '王美苏'
+        intro: "一只会想象的草履虫。"
+        avator: "-/images/plus_tard.jpeg"
     yuhe:
         name: '于翮'
 

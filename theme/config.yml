@@ -20,6 +20,11 @@ lang:
         zh: 订阅
         ru: RSS
         ja: RSS
+    about:
+        en: ABOUT
+        zh: 关于
+        ru: относительно
+        ja: ほど
     articles:
         en: Articles
         zh: 篇文章

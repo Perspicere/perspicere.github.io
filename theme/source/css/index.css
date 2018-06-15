@@ -98,6 +98,9 @@ a.name {
   position: relative;
   height: 32px;
   margin-top: -36px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   span {
     padding: 8px 15px;
     display: block;
@@ -105,8 +108,20 @@ a.name {
       font-weight: bold;
     }
   }
+  .icon-container {
+    display: flex;
+    align-items: center;
+  }
   .copyright {
     float: left;
+  }
+  .icon {
+    display: block;
+    max-width: 20px;
+    max-height: 20px;
+    align-self: center;
+    width: auto;
+    height: auto;
   }
   .publish {
     float: right;

@@ -1,6 +1,6 @@
 title: '女性作家的身份陷阱：你丈夫如何看待你的作品？'
 preview: '一个写与性相关题材的男性很寻常，而写作同样内容的女性却被怀疑有违道德。'
-author: meisu
+author: plus_tard
 editor: '沈浪'
 proofReading: '吴琪'
 picture: '王美苏'
