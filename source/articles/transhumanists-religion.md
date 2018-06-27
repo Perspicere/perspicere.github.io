@@ -119,6 +119,7 @@ Google的工程总监雷·库兹韦尔（Ray Kurzweil），经常被媒体当作
 **无论我们认为自己世俗与否，我们都被这些词汇所定义。我们站在这些“天使”的翅膀上迎接AI的未来。没有它们的羽毛，沉重的想象力不可能被托起。**
 
 **无论“天使”们是人工的还是神造的。**
+
 -----
-作者：Beth Singler
-文章来源：Aeon
+
+原文链接：[Why is the language of transhumanists and religion so similar? | Aeon](https://aeon.co/essays/why-is-the-language-of-transhumanists-and-religion-so-similar)

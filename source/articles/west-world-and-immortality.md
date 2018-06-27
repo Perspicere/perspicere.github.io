@@ -126,9 +126,12 @@ Osman Kibar 是 Samumed 生物技术公司的 CEO，他告诉我：“我们人�
 
 ![](-/images/west-world-and-immortality/11.webp)
 
+---
 
-**参考文章**
+参考文章:
 
-https://www.brainpickings.org/2014/05/22/alan-lightman-accidental-universe-impermanence/
-https://www.brainpickings.org/2013/05/24/the-philosophy-of-immortality/
-https://aeon.co/ideas/what-are-the-ethical-consequences-of-immortality-technology
+* [Alan Lightman on Our Yearning for Immortality and Why We Long for Permanence in a Universe of Constant Change | Brain Pickings](https://www.brainpickings.org/2014/05/22/alan-lightman-accidental-universe-impermanence/)
+* [The Philosophy of Immortality | Brain Pickings](https://www.brainpickings.org/2013/05/24/the-philosophy-of-immortality/)
+* [What are the ethical consequences of immortality technology? | Aeon](https://aeon.co/ideas/what-are-the-ethical-consequences-of-immortality-technology)
+
+
