@@ -6,7 +6,7 @@ tags:
     - 独裁
     - 历史
     - 汉娜·阿伦特
-preview: 恐惧只能在那些被孤立开来的个体上建立完全的统治。因此，独裁政府的一个核心关切就是实现这种孤立。
+preview: '恐惧只能在那些被孤立开来的个体上建立完全的统治。因此，独裁政府的一个核心关切就是实现这种孤立。'
 original-author: "Maria Popova"
 editor: "huaxia, yanyan"
 proof-reader: "杨子墨"
