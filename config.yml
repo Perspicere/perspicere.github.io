@@ -15,6 +15,9 @@ authors:
         name: "视角杂志"
         intro: "世界的不同维度"
         avatar: "-/images/logo.png"
+    z:
+        name: 'Z'
+        intro: '建筑学学生'
     huaxia:
         name: "华夏"
     yunze:
