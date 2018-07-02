@@ -18,6 +18,7 @@ authors:
     z:
         name: 'Z'
         intro: '建筑学学生'
+        avatar: "-/images/avatars/z.jpeg"
     huaxia:
         name: "华夏"
     yunze:
