@@ -15,6 +15,9 @@ authors:
         name: "视角杂志"
         intro: "世界的不同维度"
         avatar: "-/images/logo.png"
+    z:
+        name: 'Z'
+        intro: '建筑学学生'
     huaxia:
         name: "华夏"
     yunze:
@@ -23,10 +26,10 @@ authors:
         avatar: "-/images/avatars/yunze.jpeg"
     ruowang:
         name: "若望"
-        intro: "test"
-        avator: "-/images/logo.png"
     yuteng:
         name: "曹雨腾"
+        intro: "人文引导技术，技术赋能个体"
+        avatar: "-/images/avatars/yuteng.jpg"
     ruyue:
         name: "姜如月"
     zimo:
@@ -36,7 +39,7 @@ authors:
     plus_tard:
         name: '王美苏'
         intro: "一只会想象的草履虫。"
-        avator: "-/images/avatars/plus_tard.jpeg"
+        avatar: "-/images/avatars/plus_tard.jpg"
     yuhe:
         name: '于翮'
 
