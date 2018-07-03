@@ -15,6 +15,8 @@ authors:
         name: "视角杂志"
         intro: "世界的不同维度"
         avatar: "-/images/logo.png"
+    yeti:
+        name: "叶提"
     z:
         name: 'Z'
         intro: '建筑学学生'
@@ -33,6 +35,7 @@ authors:
         avatar: "-/images/avatars/yuteng.jpg"
     ruyue:
         name: "姜如月"
+        intro: "我对没有想象力的知识毫无兴趣"
     zimo:
         name: '杨子墨'
     houshang:
