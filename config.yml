@@ -15,6 +15,10 @@ authors:
         name: "视角杂志"
         intro: "世界的不同维度"
         avatar: "-/images/logo.png"
+    liuguo:
+        name: "刘果"
+        intro: '地球村村民'
+        avatar: "-/images/avatars/liuguo.png"
     yeti:
         name: "叶提"
     z:

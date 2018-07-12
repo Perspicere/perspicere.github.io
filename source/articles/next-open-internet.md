@@ -42,7 +42,7 @@ tags:
 这远不是警钟第一次敲响。不管是剑桥分析事件，2011年埃及政府切断互联网事件，屡禁不止的金融信息盗窃，还是俄国、中国、伊朗、土耳其等政府对民众进行的信息控制，究其原因，都在于现有网络依赖一个或多个中心服务器。第三方可通过域名污染、DDoS（拒绝服务攻击）等方式阻断用户与服务器的链接，服务器也可对信息进行控制、筛选甚至跟踪。
 
 ![](../images/next-open-internet/4.png)
-<center><small style="color:gray;">插画：十方，https://www.douban.com/people/a33862560/</small></center>
+<center><small style="color:gray;">插画：[十方](https://www.douban.com/people/a33862560/)</small></center>
 
 ## 龙与屠龙者
 互联网并非一直如此。我们所熟知的互联网发源于万维网（World Wide Web），由蒂姆·伯纳斯-李（Timothy Berners-Lee）在欧洲核子研究组织（CERN）工作时设计，最早用于科学家之间传输数据，第一台服务器于1991年上线。
@@ -131,7 +131,7 @@ IPFS采用内容寻址的麻烦之处在于，更新内容也需要更新hash，
 相较普通用户而言，分布式网络的最大门槛在于接入。就像2000年左右互联网第一次兴起时，人们需要学习如何购买互联网运营商的服务、选择浏览器及注册邮箱等。降低这个门槛将会是决定分布式网络存活的关键。值得庆贺的是，现在Dat项目已经有了相当好的浏览器支持：Beaker桌面浏览器可直接支持Dat协议，移动端浏览器Bunsen也正处于开发之中，而发展迅速的Brave浏览器将计划在今年支持Dat协议。
 
 ![](../images/next-open-internet/10.webp)
-<center><small style="color:gray;">插画：十方，https://www.douban.com/people/a33862560/</small></center>
+<center><small style="color:gray;">插画：[十方](https://www.douban.com/people/a33862560/)</small></center>
 
 ## 域名与身份
 在目前的互联网上，与存储同样中心化的是域名的解析。当我们通过浏览器访问一个网址时，浏览器需要先通过层层域名服务器获取目标网站服务器的IP地址，才能建立连接和传输数据。层层服务器被作为中心节点来联通整个互联网，导致了整个互联网都处于脆弱的境地。
@@ -153,7 +153,7 @@ IPFS采用内容寻址的麻烦之处在于，更新内容也需要更新hash，
 由于用户身份问题需要基建和规模效应，微软、IBM、uPort、Blockstack等公司联合起来成立了分布式身份基金会（Decentralized Identity Foundation），组建未来的分布式身份生态系统。这个领域将会是之后巨头相争的商业价值核心。
 
 ![](../images/next-open-internet/11.webp)
-<center><small style="color:gray;">插画：十方，https://www.douban.com/people/a33862560/</small></center>
+<center><small style="color:gray;">插画：[十方](https://www.douban.com/people/a33862560/)</small></center>
 
 ## 循环的终结？
 信息与传媒技术往往会经历从开源共存到垄断单一的循环。
@@ -173,4 +173,4 @@ IPFS采用内容寻址的麻烦之处在于，更新内容也需要更新hash，
 
 不过，一小部分希望在天空翱翔的人们，带来了飞机；一小部分希望自由交换信息的人们，带来了互联网；另一小部分希望进行自由交易的人们，带来了比特币浪潮。也许在警钟无数次敲响后，我们会在某天看到一个真正分布式的互联网。
 ![](../images/next-open-internet/12.webp)
-<center><small style="color:gray;">插画：十方，https://www.douban.com/people/a33862560/</small></center>
+<center><small style="color:gray;">插画：[十方](https://www.douban.com/people/a33862560/)</small></center>
