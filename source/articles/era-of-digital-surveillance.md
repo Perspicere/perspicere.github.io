@@ -1,6 +1,6 @@
 title: "在数字监控时代我们还能做点什么？"
 date: 2018-04-15 20:38:40 +0800
-author: 子川
+author: zichuan
 cover: "-/images/era-of-digital-surveillance/1.webp"
 tags:
     - 数据监控
@@ -104,14 +104,11 @@ _<center><font color=#999>《黑镜》第二季第一集以“微笑指数”为
 
 虽然现在停止这个新时代可能已经太晚了，但我们现在确实有选择和权利可以利用。比如，我们需要对评级人员进行评估。凯文·凯利在他的书《不可避免》中描述了一个未来， 在那里，观察者和被监视者将透明地相互跟踪。他写道：“我们现在的核心选择是，这种监视是一种秘密的单向监视，还是一种相互透明（同时监视观察者）的‘贪婪’”。
 
+--- 
 
-***参考资料***
+参考资料:
 
-[https://aeon.co/essays/judge-jury-and-executioner-the-unaccountable-algorithm](https://aeon.co/essays/judge-jury-and-executioner-the-unaccountable-algorithm)
-
-[https://aeon.co/essays/the-strange-benefits-of-living-in-a-total-surveillance-state
-](https://aeon.co/essays/the-strange-benefits-of-living-in-a-total-surveillance-state)
-
-[http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion](http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion)
-
-[https://www.theatlantic.com/technology/archive/2017/05/the-thinning-line-between-commercial-and-government-surveillance/524952/](https://www.theatlantic.com/technology/archive/2017/05/the-thinning-line-between-commercial-and-government-surveillance/524952/)
+* [Digital star chamber | Aeon](https://aeon.co/essays/judge-jury-and-executioner-the-unaccountable-algorithm)
+* [Life in the fishbowl | Aeon](https://aeon.co/essays/the-strange-benefits-of-living-in-a-total-surveillance-state)
+* [Big data meets Big Brother as China moves to rate its citizens | Wired](http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion)
+* [The Thinning Line Between Commercial and Government Surveillance | the Atlantic](https://www.theatlantic.com/technology/archive/2017/05/the-thinning-line-between-commercial-and-government-surveillance/524952/)

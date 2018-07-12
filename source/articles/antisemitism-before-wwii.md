@@ -2,7 +2,7 @@ title: "纳粹屠杀前的欧洲恐犹症和排犹史"
 preview: '本文将跟随克劳斯·费舍尔的分期叙述，试图勾勒出二战之前的欧洲基督教世界恐犹和排犹的历史演变，以及基督教世界排犹的幻觉本质与纳粹的屠杀之间的历史逻辑联系。'
 date: 2018-03-29 20:38:52 +0800
 author: mengxi
-cover: "-/images/arendt-isolation-oppression/1.png"
+cover: "../images/antisemitism-before-wwii/2.webp"
 tags:
     - 种族
     - 历史
