@@ -11,8 +11,6 @@ tags:
   - 技术与社会
 ---
 
-![](-/images/end-of-theory/1.png)
-
 # 1
 
 ![](-/images/end-of-theory/2.png)

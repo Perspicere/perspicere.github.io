@@ -91,4 +91,6 @@ _<center><font color=#999>Work by Sara Andreasson</font></center>_
 女士们、先生们，不用再问这样的问题了——女作家无需经历她们所书写之事，便可进行创作；她们想象力超群，打破禁忌、跨越性别。她们的丈夫觉得能娶到她们简直酷到爆炸好吗！
 
 ----
-作者Jamie Quatro 是小说《火诫》(Fire Sermon)和短篇故事集《我想告诉你更多》(I Want to Show You More)的作者，现居美国佐治亚州。
+
+作者简介：Jamie Quatro 是小说《火诫》(Fire Sermon)和短篇故事集《我想告诉你更多》(I Want to Show You More)的作者，现居美国佐治亚州。
+原文链接：[“What Does Your Husband Think of Your Novel?” | the Paris Review](https://www.theparisreview.org/blog/2018/01/16/husband-think-novel/)

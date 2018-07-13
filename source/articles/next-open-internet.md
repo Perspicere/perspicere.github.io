@@ -1,7 +1,7 @@
 title: '下一代开放互联网'
 preview: '随着区块链兴起，分布式技术能否让破碎的互联网涅槃重生？'
 author: liuguo
-cover: '../images/next-open-internet/11.webp'
+cover: '../images/next-open-internet/6.gif'
 date: 2018-07-11 18:00:00 +0800
 editor: '沈浪,子川'
 design: '童画' 
@@ -11,7 +11,6 @@ tags:
   - 互联网
   - 科技与社会
 ---
-![](../images/next-open-internet/1.webp)
 
 ## 前言
 

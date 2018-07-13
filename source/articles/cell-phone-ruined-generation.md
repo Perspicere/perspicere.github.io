@@ -10,8 +10,7 @@ tags:
     - 科技
     - 代际研究
 ---
-
-![](-/images/cell-phone-ruined-generation/2.png)
+![](-/images/cell-phone-ruined-generation/1.png)
 
 **编者按**：
 
@@ -22,6 +21,9 @@ tags:
 - 1981-1996：千禧一代（Millennials)
 - 1996-现在：后千禧一代（Post Millennials），本文中称为i世代（iGen）
 
+---
+
+![](-/images/cell-phone-ruined-generation/2.png)
 # 1
 
 去年夏天的一个午后，我给 Athena 打了个电话，她听上去像是刚起床。Athena 今年十三岁，住在德州休斯顿，十一岁就有了自己的 iPhone。我们聊了聊她喜欢的歌和电视节目。我问她和朋友在一起喜欢做什么，她回答：“我们会去逛商场。” “爸妈会开车送你吗？” 我接着问。我想起自己初中的80年代，非常享受和朋友们逛街时父母不在的那几个小时。 “不，我和家人一起去，”她回答，“我们和妈妈还有哥哥弟弟一起，只不过走在他们后面。我只要告诉妈妈我们去哪就行了，然后每半个小时或一个小时跟她汇报一次。”
