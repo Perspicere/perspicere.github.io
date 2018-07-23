@@ -10,7 +10,8 @@ type-setting: '齐慧'
 tags:
   - 神话
   - 传统文化
-  - 民族志
+  - 宗教
+  
 ---
 
 ![](../images/kazakhs-myth/1.webp)
