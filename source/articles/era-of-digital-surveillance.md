@@ -15,15 +15,15 @@ type-setting: "付安琪"
 
 ---
 
+![](-/images/era-of-digital-surveillance/1.webp)
+
 **编者按**：
 
 在互联网世界，贩卖用户隐私在内的数据生意早已不是秘密，互联网由最初的匿名转向实名制，也由90年代的乌托邦设想演变为数字控制与监视的工具。如果没有相应的权力制衡，个人信息的大数据极易被寡头收割和利用。剑桥分析（Cambridge Analytica）利用Facebook用户数据操纵2016年的美国大选，这一事件已充分展示了数字控制对现实世界的影响。
 
 今天的文章将讨论，数字监控如何作用于我们的生活，我们又该如何应对。
 
----
-
-# 1. 你的数字身份
+# 1.你的数字身份
 
 根据卢西亚诺•弗洛里迪（Luciano Floridi，牛津大学信息哲学与伦理学教授、互联网研究所研究主任）的说法，**三个关键的“去中心化转移”（de-centering shifts）改变了人类对自我的认知: 哥白尼的“太阳中心说”模型，达尔文的自然选择理论，以及弗洛伊德关于我们的日常行为是由潜意识控制的说法**。
 
@@ -49,7 +49,7 @@ _<center><font color=#999>莆田医院分布图。2016年魏则西事件曝光�
 
 数字化的我们已经被算法所包围。**我们是一个良民、一个可信之人，还是一个威胁、一个隐患，这些都由数据和算法来决定。算法成为了权力的直接掌管者，甚至能够决定我们看见什么、思考什么**。
 
-# 2. 政府：驯服的游戏化
+# 2.政府：驯服的游戏化
 
 对于被分类的我们来说, 还没有有效的方式能让算法对这种分类负责。不仅如此，当算法的决策与我们的生活互动之后，我们甚至难以想到要对算法进行问责。
 
@@ -72,7 +72,7 @@ _<center><font color=#999>《1984》中的“老大哥在看你”早已成为�
 
 **这就是服从的游戏化**。谁会公开批评这个体系呢？ 叮——你的分数可能会下降。令人担忧的是，很少有人明白，不好的分数将来会伤害到他们。更令人担忧的是，有多少人还不知道自己在被评价。
 
-# 3. 学术界：算法问责的尝试
+# 3.学术界：算法问责的尝试
 
 2013年纽约大学举行的"管理算法"会议上, 一个由学者和活动家组成的社区对算法的输出进行了批判性地分析。现在他们正在推动一场关于算法问责的强有力的对话, 简称**# algacc**。像2000年代的“**知识无界**”（A2K，由认为获得知识应与正义、自由和经济发展的基本原则联系起来的的民间社会团体、政府和个人的松散集合）动员一样, algacc 把焦点转向了2010年代的一个关键性的社会公正问题——**算法的透明**。
 
@@ -89,7 +89,7 @@ _<center><font color=#999>《黑客帝国3》中，作为机器世界的“杀�
 
 算法问责是一个大型的公众项目，需要伦理学、哲学、法学、社会学、新闻调查、社会活动等等不同领域的人来各显神通。这是所有人都需要面对的事业，它迫在眉睫，很多致力于此的专家也在寻求更广泛的支持。**如果我们不保持警惕， “分布式信任”就会变成“网络化耻辱”。生活将成为一场无休止的人气竞赛，我们都在争夺只有极少数人才能获得的最高评价，就像《黑镜》里预言的那样**。
 
-# 4. 技术：夺回你的隐私权
+# 4.技术：夺回你的隐私权
 
 我们的未来， 是否都将被贴上网络和数据挖掘的烙印？也许现在还为时尚早，**我们并不了解监控与信息评估无处不在的文化会是怎样**。但这种趋势正在蔓延，当这些系统绘制出全人类的社会、道德和金融历史时，未来会发生什么？ 隐私和言论自由还要被损害多久？ 谁来决定这个系统走哪条路？ 这些问题**很快**便要被纳入考虑。
 
@@ -99,16 +99,17 @@ _<center><font color=#999>《黑客帝国3》中，作为机器世界的“杀�
 
 ![](-/images/era-of-digital-surveillance/6.webp)
 _<center><font color=#999>《黑镜》第二季第一集以“微笑指数”为线索，讲述了一个评估无处不在的未来。来源：豆瓣</font></center>_
-
 好消息是，技术也可以有效地防止被跟踪。广告拦截器和其他浏览器的隐私工具可以减少超过一半的跟踪，使用更复杂的工具，如 Tor 浏览器会更有效。换句话说，技术更娴熟的人可以享受更好的隐私和数字自由。但这将导致了技术上的“军备竞赛”，这本身就令人担忧，不过这种技能也的确与那些占据优势的技术党相关。与此同时，出版商被广告拦截器等工具误伤，危及自由媒体。
 
 虽然现在停止这个新时代可能已经太晚了，但我们现在确实有选择和权利可以利用。比如，我们需要对评级人员进行评估。凯文·凯利在他的书《不可避免》中描述了一个未来， 在那里，观察者和被监视者将透明地相互跟踪。他写道：“我们现在的核心选择是，这种监视是一种秘密的单向监视，还是一种相互透明（同时监视观察者）的‘贪婪’”。
 
---- 
+***参考资料***
 
-参考资料:
+[https://aeon.co/essays/judge-jury-and-executioner-the-unaccountable-algorithm](https://aeon.co/essays/judge-jury-and-executioner-the-unaccountable-algorithm)
 
-* [Digital star chamber | Aeon](https://aeon.co/essays/judge-jury-and-executioner-the-unaccountable-algorithm)
-* [Life in the fishbowl | Aeon](https://aeon.co/essays/the-strange-benefits-of-living-in-a-total-surveillance-state)
-* [Big data meets Big Brother as China moves to rate its citizens | Wired](http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion)
-* [The Thinning Line Between Commercial and Government Surveillance | the Atlantic](https://www.theatlantic.com/technology/archive/2017/05/the-thinning-line-between-commercial-and-government-surveillance/524952/)
+[https://aeon.co/essays/the-strange-benefits-of-living-in-a-total-surveillance-state
+](https://aeon.co/essays/the-strange-benefits-of-living-in-a-total-surveillance-state)
+
+[http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion](http://www.wired.co.uk/article/chinese-government-social-credit-score-privacy-invasion)
+
+[https://www.theatlantic.com/technology/archive/2017/05/the-thinning-line-between-commercial-and-government-surveillance/524952/](https://www.theatlantic.com/technology/archive/2017/05/the-thinning-line-between-commercial-and-government-surveillance/524952/)
