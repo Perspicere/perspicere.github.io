@@ -1,7 +1,7 @@
 title: '哈萨克神话中的创世纪与图腾崇拜'
 preview: '这些神话有一些来自中亚游牧民族的历史共性，有一些来自哈萨克族自身的文化，还有一些来自伊斯兰教的影响。'
 author: z
-cover: '-/images/kazakhs-myth/3.webp'
+cover: '-/images/kazakhs-myth/1.webp'
 date: 2018-06-15 18:00:00 +0800
 editor: '马特'
 design: '子川' 
@@ -13,8 +13,6 @@ tags:
   - 宗教
   
 ---
-
-![](../images/kazakhs-myth/1.webp)
 
 ## 1.
 

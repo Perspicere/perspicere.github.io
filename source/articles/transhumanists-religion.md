@@ -1,7 +1,7 @@
 title: 'fAIth:信仰未来的奇点论'
 preview: '为何宗教话语在 AI 和超人类主义者的圈子里如此常见？'
 author: yuhe
-cover: '-/images/transhumanists-religion/8.png'
+cover: '-/images/transhumanists-religion/1.webp'
 date: 2018-01-17 18:00:00 +0800
 editor: '华夏'
 design: '童画,姜如月' 

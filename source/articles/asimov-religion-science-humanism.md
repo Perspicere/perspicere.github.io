@@ -75,6 +75,7 @@ type-setting: "齐慧"
 ![](-/images/asimov-religion-science-humanism/6.webp)
 
 ---
+
 原文链接：[Religion vs. Humanism: Isaac Asimov on Science and Spirituality | Brain Pickings](https://www.brainpickings.org/2013/08/13/isaac-asimov-religion-science-humanism/)
 
 作者简介：玛丽亚 · 波波瓦（保加利亚人：生于1984年7月28日）保加利亚作家、博客作者、文艺评论家，现居纽约市的布鲁克林。她因其独特的言论而走红。她在博客（BrainPickings.org）上的写作大多关注文化、书籍、哲学和互联网里里外外不拘一格的话题。

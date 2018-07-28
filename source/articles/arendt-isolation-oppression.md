@@ -62,10 +62,16 @@ type-setting: "来红兵"
 
 本文只是阿伦特思想的匆匆一瞥，有兴趣的读者可参考下列文章：
 
-a.The life of the mind
+* [The life of the mind](https://www.brainpickings.org/2014/09/16/hannah-arendt-the-life-of-the-mind/)
 
-b.How we humanize each other
+* [How we humanize each other](https://www.brainpickings.org/2016/04/12/hannah-arendt-men-in-dark-times/)
 
-c.The difference between how art and science illuminate human life
+* [The difference between how art and science illuminate human life](https://www.brainpickings.org/2016/10/14/hannah-arendt-human-condition-art-science/)
 
-d.Beautiful love letters
+* [Beautiful love letters](https://www.brainpickings.org/2016/04/25/hannah-arendt-martin-heidegger-love-letters/)
+
+---
+
+作者简介：玛丽亚·波波瓦（保加利亚人：生于1984年7月28日）保加利亚作家、博客作者、文艺评论家，现居纽约市的布鲁克林。她因其独特的言论而走红。她在博客（BrainPickings.org）上的写作大多关注文化、书籍、哲学和互联网里里外外不拘一格的话题。
+
+原文链接：[Hannah Arendt on Loneliness as the Common Ground for Terror and How Tyrannical Regimes Use Isolation as a Weapon of Oppression | Brain Pickings](https://www.brainpickings.org/2016/12/20/hannah-arendt-origins-of-totalitarianism-loneliness-isolation/)
